@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.appName {
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+.header_content {
+  padding: 20px 0 0px 250px;
+  display: flex;
+  gap: 150px;
+}
+.header_content p {
+  font-size: 20px;
+  padding-top: 6px;
+  color: #868686;
+}
+
+.searchInfo input {
+  width: 250px;
+  height: 35px;
+  border-radius: 30px;
+  background-color: #374151;
+}
